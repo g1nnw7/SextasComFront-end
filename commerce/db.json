@@ -1,0 +1,643 @@
+{
+  "products": [
+    {
+      "id": "prod_1",
+      "handle": "camiseta-classica-preta",
+      "availableForSale": true,
+      "title": "Camiseta Clássica Preta",
+      "description": "Uma camiseta preta essencial, feita de 100% algodão premium. Confortável, durável e versátil para qualquer ocasião.",
+      "descriptionHtml": "<p>Uma camiseta preta essencial, feita de <strong>100% algodão premium</strong>. Confortável, durável e versátil para qualquer ocasião.</p>",
+      "collections": [
+        "destaques",
+        "camisetas"
+      ],
+      "tags": [
+        "básico",
+        "algodão",
+        "verão"
+      ],
+      "seo": {
+        "title": "Camiseta Clássica Preta | Sua Loja",
+        "description": "Compre a melhor camiseta preta básica de algodão."
+      },
+      "featuredImage": {
+        "url": "/img/camiseta-preta-frente.webp",
+        "altText": "Frente da camiseta preta",
+        "width": 800,
+        "height": 800
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "89.90",
+          "currencyCode": "BRL"
+        },
+        "maxVariantPrice": {
+          "amount": "89.90",
+          "currencyCode": "BRL"
+        }
+      },
+      "options": [
+        {
+          "id": "option_size",
+          "name": "Tamanho",
+          "values": [
+            "P",
+            "M",
+            "G",
+            "GG"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": "var_1_p",
+          "title": "P",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Tamanho",
+              "value": "P"
+            }
+          ],
+          "price": {
+            "amount": "89.90",
+            "currencyCode": "BRL"
+          }
+        },
+        {
+          "id": "var_1_m",
+          "title": "M",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Tamanho",
+              "value": "M"
+            }
+          ],
+          "price": {
+            "amount": "89.90",
+            "currencyCode": "BRL"
+          }
+        },
+        {
+          "id": "var_1_g",
+          "title": "G",
+          "availableForSale": false,
+          "selectedOptions": [
+            {
+              "name": "Tamanho",
+              "value": "G"
+            }
+          ],
+          "price": {
+            "amount": "89.90",
+            "currencyCode": "BRL"
+          }
+        }
+      ],
+      "images": [
+        {
+          "url": "/img/camiseta-preta-frente.webp",
+          "altText": "Frente da camiseta preta",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "url": "/img/camiseta-preta-costas.webp",
+          "altText": "Costas da camiseta preta",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "updatedAt": "2025-09-12T18:00:00Z"
+    },
+    {
+      "id": "prod_2",
+      "handle": "moletom-com-capuz-cinza",
+      "availableForSale": true,
+      "title": "Moletom com Capuz Cinza",
+      "description": "Moletom cinza mescla com capuz e bolso canguru. Perfeito para dias mais frios, combinando estilo e conforto.",
+      "descriptionHtml": "<p>Moletom cinza mescla com capuz e bolso canguru. Perfeito para dias mais frios, combinando <strong>estilo e conforto</strong>.</p>",
+      "collections": [
+        "destaques",
+        "casacos"
+      ],
+      "tags": [
+        "inverno",
+        "conforto",
+        "moletom"
+      ],
+      "seo": {
+        "title": "Moletom com Capuz Cinza | Sua Loja",
+        "description": "O melhor moletom cinza com capuz para o inverno."
+      },
+      "featuredImage": {
+        "url": "/img/moletom-cinza-frente.webp",
+        "altText": "Frente do moletom cinza",
+        "width": 800,
+        "height": 800
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "199.90",
+          "currencyCode": "BRL"
+        },
+        "maxVariantPrice": {
+          "amount": "199.90",
+          "currencyCode": "BRL"
+        }
+      },
+      "options": [
+        {
+          "id": "option_size",
+          "name": "Tamanho",
+          "values": [
+            "P",
+            "M",
+            "G"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": "var_2_p",
+          "title": "P",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Tamanho",
+              "value": "P"
+            }
+          ],
+          "price": {
+            "amount": "199.90",
+            "currencyCode": "BRL"
+          }
+        },
+        {
+          "id": "var_2_m",
+          "title": "M",
+          "availableForSale": true,
+          "selectedOptions": [
+            {
+              "name": "Tamanho",
+              "value": "M"
+            }
+          ],
+          "price": {
+            "amount": "199.90",
+            "currencyCode": "BRL"
+          }
+        }
+      ],
+      "images": [],
+      "updatedAt": "2025-09-10T11:00:00Z"
+    },
+    {
+      "id": "prod_3",
+      "handle": "tenis-esportivo-branco",
+      "availableForSale": true,
+      "title": "Tênis Esportivo Branco",
+      "description": "Tênis esportivo branco leve e confortável, ideal para corridas e caminhadas.",
+      "descriptionHtml": "<p>Tênis esportivo branco leve e confortável, ideal para corridas e caminhadas.</p>",
+      "collections": [
+        "hidden-homepage-featured-items"
+      ],
+      "tags": [
+        "esporte",
+        "conforto",
+        "leve"
+      ],
+      "seo": {
+        "title": "Tênis Esportivo Branco | Sua Loja",
+        "description": "Tênis esportivo branco ideal para o dia a dia."
+      },
+      "featuredImage": {
+        "url": "/img/tenis-branco.webp",
+        "altText": "Tênis esportivo branco",
+        "width": 800,
+        "height": 800
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "249.90",
+          "currencyCode": "BRL"
+        },
+        "maxVariantPrice": {
+          "amount": "249.90",
+          "currencyCode": "BRL"
+        }
+      },
+      "options": [],
+      "variants": [
+        {
+          "id": "var_3_1",
+          "title": "Default",
+          "availableForSale": true,
+          "selectedOptions": [],
+          "price": {
+            "amount": "249.90",
+            "currencyCode": "BRL"
+          }
+        }
+      ],
+      "images": [],
+      "updatedAt": "2025-09-13T10:00:00Z"
+    },
+    {
+      "id": "prod_4",
+      "handle": "bolsa-couro-marrom",
+      "availableForSale": true,
+      "title": "Bolsa de Couro Marrom",
+      "description": "Bolsa de couro legítimo marrom, elegante e espaçosa.",
+      "descriptionHtml": "<p>Bolsa de couro legítimo marrom, elegante e espaçosa.</p>",
+      "collections": [
+        "hidden-homepage-featured-items"
+      ],
+      "tags": [
+        "bolsa",
+        "couro",
+        "luxo"
+      ],
+      "seo": {
+        "title": "Bolsa de Couro Marrom | Sua Loja",
+        "description": "Bolsa de couro legítimo elegante."
+      },
+      "featuredImage": {
+        "url": "/img/bolsa-marrom.png",
+        "altText": "Bolsa de couro marrom",
+        "width": 800,
+        "height": 800
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "599.90",
+          "currencyCode": "BRL"
+        },
+        "maxVariantPrice": {
+          "amount": "599.90",
+          "currencyCode": "BRL"
+        }
+      },
+      "options": [],
+      "variants": [
+        {
+          "id": "var_4_1",
+          "title": "Default",
+          "availableForSale": true,
+          "selectedOptions": [],
+          "price": {
+            "amount": "599.90",
+            "currencyCode": "BRL"
+          }
+        }
+      ],
+      "images": [],
+      "updatedAt": "2025-09-13T11:00:00Z"
+    },
+    {
+      "id": "prod_5",
+      "handle": "mochila-esportiva-preta",
+      "availableForSale": true,
+      "title": "Mochila Esportiva Preta",
+      "description": "Mochila preta resistente, com compartimento para notebook.",
+      "descriptionHtml": "<p>Mochila preta resistente, com compartimento para notebook.</p>",
+      "collections": [
+        "hidden-homepage-featured-items"
+      ],
+      "tags": [
+        "mochila",
+        "esporte",
+        "acessório"
+      ],
+      "seo": {
+        "title": "Mochila Esportiva Preta | Sua Loja",
+        "description": "Mochila preta com compartimento para notebook."
+      },
+      "featuredImage": {
+        "url": "/img/mochila-preta.png",
+        "altText": "Mochila esportiva preta",
+        "width": 800,
+        "height": 800
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "329.90",
+          "currencyCode": "BRL"
+        },
+        "maxVariantPrice": {
+          "amount": "329.90",
+          "currencyCode": "BRL"
+        }
+      },
+      "options": [],
+      "variants": [
+        {
+          "id": "var_5_1",
+          "title": "Default",
+          "availableForSale": true,
+          "selectedOptions": [],
+          "price": {
+            "amount": "329.90",
+            "currencyCode": "BRL"
+          }
+        }
+      ],
+      "images": [],
+      "updatedAt": "2025-09-13T11:30:00Z"
+    },
+    {
+      "id": "prod_6",
+      "handle": "oculos-escuros-classico",
+      "availableForSale": true,
+      "title": "Óculos Escuros Clássico",
+      "description": "Óculos escuros preto clássico, com proteção UV.",
+      "descriptionHtml": "<p>Óculos escuros preto clássico, com proteção UV.</p>",
+      "collections": [
+        "hidden-homepage-carousel"
+      ],
+      "tags": [
+        "óculos",
+        "verão",
+        "acessório"
+      ],
+      "seo": {
+        "title": "Óculos Escuros Clássico | Sua Loja",
+        "description": "Óculos de sol preto clássico."
+      },
+      "featuredImage": {
+        "url": "/img/oculos-escuro.png",
+        "altText": "Óculos escuros preto clássico",
+        "width": 800,
+        "height": 800
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "149.90",
+          "currencyCode": "BRL"
+        },
+        "maxVariantPrice": {
+          "amount": "149.90",
+          "currencyCode": "BRL"
+        }
+      },
+      "options": [],
+      "variants": [
+        {
+          "id": "var_6_1",
+          "title": "Default",
+          "availableForSale": true,
+          "selectedOptions": [],
+          "price": {
+            "amount": "149.90",
+            "currencyCode": "BRL"
+          }
+        }
+      ],
+      "images": [],
+      "updatedAt": "2025-09-13T12:00:00Z"
+    },
+    {
+      "id": "prod_7",
+      "handle": "bone-verde-logo",
+      "availableForSale": true,
+      "title": "Boné Verde Logo",
+      "description": "Boné verde bordado com logo minimalista.",
+      "descriptionHtml": "<p>Boné verde bordado com logo minimalista.</p>",
+      "collections": [
+        "hidden-homepage-carousel"
+      ],
+      "tags": [
+        "boné",
+        "acessório"
+      ],
+      "seo": {
+        "title": "Boné Verde | Sua Loja",
+        "description": "Boné verde com logo minimalista."
+      },
+      "featuredImage": {
+        "url": "/img/bone-verde.png",
+        "altText": "Boné verde bordado",
+        "width": 800,
+        "height": 800
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "99.90",
+          "currencyCode": "BRL"
+        },
+        "maxVariantPrice": {
+          "amount": "99.90",
+          "currencyCode": "BRL"
+        }
+      },
+      "options": [],
+      "variants": [
+        {
+          "id": "var_7_1",
+          "title": "Default",
+          "availableForSale": true,
+          "selectedOptions": [],
+          "price": {
+            "amount": "99.90",
+            "currencyCode": "BRL"
+          }
+        }
+      ],
+      "images": [],
+      "updatedAt": "2025-09-13T12:30:00Z"
+    },
+    {
+      "id": "prod_8",
+      "handle": "garrafa-termica-preta",
+      "availableForSale": true,
+      "title": "Garrafa Térmica Preta",
+      "description": "Garrafa térmica de aço inox, ideal para manter bebidas quentes ou frias.",
+      "descriptionHtml": "<p>Garrafa térmica de aço inox, ideal para manter bebidas quentes ou frias.</p>",
+      "collections": [
+        "hidden-homepage-carousel"
+      ],
+      "tags": [
+        "garrafa",
+        "térmica",
+        "acessório"
+      ],
+      "seo": {
+        "title": "Garrafa Térmica Preta | Sua Loja",
+        "description": "Garrafa térmica de aço inox preta."
+      },
+      "featuredImage": {
+        "url": "/img/garrafa-termica.webp",
+        "altText": "Garrafa térmica preta",
+        "width": 800,
+        "height": 800
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "189.90",
+          "currencyCode": "BRL"
+        },
+        "maxVariantPrice": {
+          "amount": "189.90",
+          "currencyCode": "BRL"
+        }
+      },
+      "options": [],
+      "variants": [
+        {
+          "id": "var_8_1",
+          "title": "Default",
+          "availableForSale": true,
+          "selectedOptions": [],
+          "price": {
+            "amount": "189.90",
+            "currencyCode": "BRL"
+          }
+        }
+      ],
+      "images": [],
+      "updatedAt": "2025-09-13T12:40:00Z"
+    },
+    {
+      "id": "prod_9",
+      "handle": "relogio-digital-preto",
+      "availableForSale": true,
+      "title": "Relógio Digital Preto",
+      "description": "Relógio digital preto resistente à água.",
+      "descriptionHtml": "<p>Relógio digital preto resistente à água.</p>",
+      "collections": [
+        "hidden-homepage-carousel"
+      ],
+      "tags": [
+        "relógio",
+        "digital"
+      ],
+      "seo": {
+        "title": "Relógio Digital Preto | Sua Loja",
+        "description": "Relógio digital preto esportivo."
+      },
+      "featuredImage": {
+        "url": "/img/relogio-preto.png",
+        "altText": "Relógio digital preto",
+        "width": 800,
+        "height": 800
+      },
+      "priceRange": {
+        "minVariantPrice": {
+          "amount": "299.90",
+          "currencyCode": "BRL"
+        },
+        "maxVariantPrice": {
+          "amount": "299.90",
+          "currencyCode": "BRL"
+        }
+      },
+      "options": [],
+      "variants": [
+        {
+          "id": "var_9_1",
+          "title": "Default",
+          "availableForSale": true,
+          "selectedOptions": [],
+          "price": {
+            "amount": "299.90",
+            "currencyCode": "BRL"
+          }
+        }
+      ],
+      "images": [],
+      "updatedAt": "2025-09-13T12:50:00Z"
+    }
+  ],
+  "collections": [
+    {
+      "handle": "destaques",
+      "title": "Produtos em Destaque",
+      "description": "Nossa seleção especial dos produtos mais populares da loja.",
+      "seo": {
+        "title": "Produtos em Destaque",
+        "description": "Veja os produtos mais vendidos e as novidades."
+      },
+      "updatedAt": "2025-09-12T10:00:00Z"
+    },
+    {
+      "handle": "camisetas",
+      "title": "Camisetas",
+      "description": "Todas as nossas camisetas de alta qualidade.",
+      "seo": {
+        "title": "Camisetas",
+        "description": "Encontre camisetas de algodão com diversas estampas."
+      },
+      "updatedAt": "2025-09-11T15:30:00Z"
+    },
+    {
+      "handle": "hidden-homepage-featured-items",
+      "title": "Itens em Destaque (Homepage)",
+      "description": "Coleção especial para exibição no grid da homepage.",
+      "seo": {
+        "title": "Homepage Featured Items",
+        "description": "Produtos selecionados para a homepage."
+      },
+      "updatedAt": "2025-09-13T09:00:00Z"
+    },
+    {
+      "handle": "hidden-homepage-carousel",
+      "title": "Carrossel (Homepage)",
+      "description": "Produtos exibidos no carrossel da homepage.",
+      "seo": {
+        "title": "Homepage Carousel",
+        "description": "Produtos do carrossel inicial."
+      },
+      "updatedAt": "2025-09-13T09:30:00Z"
+    }
+  ],
+  "pages": [
+    {
+      "id": "page_1",
+      "title": "Sobre Nós",
+      "handle": "sobre-nos",
+      "body": "<h1>Nossa História</h1><p>Somos uma loja dedicada a oferecer produtos de alta qualidade com design moderno e atemporal...</p>",
+      "bodySummary": "Somos uma loja dedicada a oferecer produtos de alta qualidade...",
+      "seo": {
+        "title": "Sobre Nós | Sua Loja",
+        "description": "Conheça mais sobre a nossa história e nossa missão."
+      },
+      "createdAt": "2025-01-15T09:00:00Z",
+      "updatedAt": "2025-08-20T14:00:00Z"
+    }
+  ],
+  "menu": [
+    {
+      "title": "Todos os Produtos",
+      "path": "/search"
+    },
+    {
+      "title": "Camisetas",
+      "path": "/search/camisetas"
+    },
+    {
+      "title": "Sobre Nós",
+      "path": "/about"
+    }
+  ],
+  "cart": {
+    "id": "cart_abc123",
+    "checkoutUrl": "/checkout",
+    "cost": {
+      "subtotalAmount": {
+        "amount": "289.80",
+        "currencyCode": "BRL"
+      },
+      "totalAmount": {
+        "amount": "289.80",
+        "currencyCode": "BRL"
+      },
+      "totalTaxAmount": {
+        "amount": "0.00",
+        "currencyCode": "BRL"
+      }
+    },
+    "lines": [],
+    "totalQuantity": 0
+  }
+}
