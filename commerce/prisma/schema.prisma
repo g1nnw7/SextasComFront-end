@@ -8,4 +8,10 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model Use
+model User {
+    id Int @id @default(autoincrement())
+    email String @unique
+    nome String?
+    password  String
+    @@map("user")
+}
